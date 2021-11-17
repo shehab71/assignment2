@@ -42,12 +42,5 @@
         </fieldset>
         <input type="submit" value="add" required>
         </form>
-    </div>
-    <div>
-      
-    </div>
-    <div>
-      
-    </div>
 </body>
 </html>
